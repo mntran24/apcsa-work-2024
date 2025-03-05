@@ -1,0 +1,2 @@
+The mySum value isn't exactly 0.3 but has a very small leftover decimal (because double isn't a fixed-point type, meaning the value stored will not be precise).
+Thus, checkResult is false because 0.30000000000000004 isn't exactly equal to 0.3.

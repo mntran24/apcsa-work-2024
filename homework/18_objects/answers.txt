@@ -1,0 +1,23 @@
+Instance variables:
+String name
+int dob
+String job_title
+String department
+String email
+long phone_number
+double hours_worked
+double overtime
+double salary_this_month
+double hourly_wage
+double overtime_rate
+
+Methods:
+Setter and accessor methods for all variables
+Constructor: Employee()
+calcSalary()
+calcOvertimePay()
+calcBaseSalary()
+calcAge()
+sendEmail()
+sendMessage()
+
