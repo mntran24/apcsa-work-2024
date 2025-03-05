@@ -1,0 +1,1 @@
+I think the implementation does work because it will increment numNames if the currName is not equal to the prevName => whether or not it is in alphabetical order doesn't matter (does not use < or >), it will work as intended.
